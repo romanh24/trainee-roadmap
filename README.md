@@ -36,6 +36,8 @@
 
 ## How does the browser render a website
 
+https://github.com/vasanthk/how-web-works
+
 https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
 
 https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
@@ -93,6 +95,10 @@ https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZE
 `flexbox`
 
 https://www.youtube.com/watch?v=3YW65K6LcIA&ab_channel=TraversyMedia
+
+`grid`
+
+https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG
 
 `tailwind`
 
@@ -232,6 +238,10 @@ https://reactjs.org/docs/getting-started.html
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t
 
+`React Router v6`
+
+https://www.youtube.com/watch?v=Ul3y1LXxzdU&ab_channel=WebDevSimplified
+
 `react + typescript`
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
@@ -252,9 +262,7 @@ https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3
 
 https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h
 
-`formik`
-
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu
+https://youtu.be/-yIsQPp31L0
 
 `react-hook-form`
 
@@ -280,6 +288,10 @@ https://www.youtube.com/playlist?list=PLgeETUaEEds5HE2uGWezJxYeZwpBonHr-
 
 https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
+`Next.js`
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH
+
 ---
 
 ## Git
@@ -301,6 +313,12 @@ https://www.youtube.com/watch?v=CRlGDDprdOQ&ab_channel=Academind
 https://www.youtube.com/watch?v=ll7JyRxWMQY&ab_channel=KnowledgeHutupGrad
 
 https://www.youtube.com/@skillopedia/featured
+
+---
+
+## Reverse interview
+
+https://github.com/viraptor/reverse-interview
 
 ---
 
@@ -326,7 +344,7 @@ https://www.youtube.com/@DecodedFrontend
 
 https://www.youtube.com/@CodeShotsWithProfanis
 
-https://www.youtube.com/@NetNinja
+https://www.youtube.com/@joshtriedcoding
 
 https://www.youtube.com/@JoshuaMorony
 
